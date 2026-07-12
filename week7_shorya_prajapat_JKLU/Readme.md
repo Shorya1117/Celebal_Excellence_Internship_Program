@@ -204,23 +204,6 @@ Example Questions
 ```
 Who is Sam Weiner?
 
-Explain the central theme of The Third Level.
-
-Why was the Maharaja called Tiger King?
-
-What is Gondwana?
-
-Why is Antarctica important?
-```
-
-Hallucination Test
-
-```
-What is Charley's phone number?
-
-How many children did Sam have?
-
-What is Louisa's profession?
 ```
 
 Expected Behaviour
